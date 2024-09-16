@@ -30,5 +30,4 @@ Inspiration pour l'ambiance de l'idéé:
 
 Inspiration pour la projection vidéo:
 <img src="https://miro.medium.com/v2/resize:fit:1358/0*X8V9OosecAyGjb97"></img>
-<img src="https://static.dailytouslesjours.com/files/2024/04/Duetti_night_6_createdByDailytlj_photoByVladimirAntaki_Low.jpeg" width="200">
 
