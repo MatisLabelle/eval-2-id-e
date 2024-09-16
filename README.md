@@ -21,3 +21,7 @@ graph TD;
     H -->|Oui| I[Retour à veille];
     H -->|Non| C;
 ````
+## Ambiance
+
+Inspiration pour l'idéé
+[![Less Than Jake — Scott Farcas Takes It On The Chin](https://www.youtube.com/watch?v=go22inMuRgQ.jpg)](https://www.youtube.com/watch?v=go22inMuRgQ)
