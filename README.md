@@ -32,4 +32,4 @@ Inspiration pour la projection vidéo:
 <img src="https://miro.medium.com/v2/resize:fit:1358/0*X8V9OosecAyGjb97"></img>
 
 Palette de couleur : 
-<img src="assets/Capture.png"></img>
+<img src="assets/Capture.PNG"></img>
