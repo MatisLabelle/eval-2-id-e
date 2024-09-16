@@ -36,7 +36,7 @@ Palette de couleur :
 
 ## Technologies
 
-Pour ce projets les technologies nécésaires seront: 
+Pour ce projet les technologies nécésaires seront: 
 - Projecteur
 - Lumière LED
 - Ordinateur
