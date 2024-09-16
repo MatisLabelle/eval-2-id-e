@@ -28,5 +28,5 @@ graph TD;
 Inspiration pour l'ambiance de l'idéé:
 [![ILLUMINATOR live performance demo (SOMA labs)](https://www.youtube.com/watch?v=go22inMuRgQ.jpg)](https://www.youtube.com/watch?v=go22inMuRgQ)
 
-Inspiration pour la projection vidéo: ![waveform visualizer]([https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_%28novel%29](https://miro.medium.com/v2/resize:fit:1358/0*X8V9OosecAyGjb97))
+Inspiration pour la projection vidéo:
 <a href="https://miro.medium.com/v2/resize:fit:1358/0*X8V9OosecAyGjb97">waveform visualizer</a>
