@@ -33,3 +33,19 @@ Inspiration pour la projection vidéo:
 
 Palette de couleur : 
 <img src="assets/Capture.PNG"></img>
+
+## Technologies
+
+Pour ce projets les technologies nécésaires seront: 
+- Projecteur
+- Lumière LED
+- Ordinateur
+- Instruments de musique
+- Micro
+- Cable XLR
+
+Et les logiciels nécéssaires seront: 
+- Touch Designer
+- QLC +
+- Plugdata
+- MidiLoop
