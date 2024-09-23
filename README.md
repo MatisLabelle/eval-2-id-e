@@ -36,9 +36,11 @@ Inspiration pour l'ambiance de l'idéé:
 [![ILLUMINATOR live performance demo (SOMA labs)](https://i.ytimg.com/vi/go22inMuRgQ/hqdefault.jpg?sqp=-oaymwEpCNACELwBSFryq4qpAxsIARUAAIhCGAHYAQHiAQwIGhACGAYgATgBQAE=&rs=AOn4CLA6CwuT2K_F_SQpNhJi4ErkhUZwhQ)](https://www.youtube.com/watch?v=go22inMuRgQ)
 
 Inspiration pour la projection vidéo:
+
 <img src="https://miro.medium.com/v2/resize:fit:1358/0*X8V9OosecAyGjb97"></img>
 
 Palette de couleur : 
+
 <img src="assets/Capture.PNG"></img>
 
 ## Technologies
