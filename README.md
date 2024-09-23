@@ -1,15 +1,14 @@
 # Idée de projet multimédia
 
 ## Idée
-Étant passionné de musique j'aimerais faire une projet tournant autour de cette passion.
-J'aimerais pouvoir proposer au musiciens amateurs une expérience leur permettant de s'imaginer donner un concert. La différence entre un concert et une session de jam seule est l'ambiance. Pour donner l'ambiance d'un concert à un environnement sans publique il faut comprendre la synesthésie, le concept de lié nos sens entre eux.. 
+Étant passionné par la musique, j'aimerais réaliser un projet tournant autour de cette passion. Je souhaiterais proposer aux musiciens amateurs une expérience leur permettant de s'imaginer en train de donner un concert. La différence entre un concert et une simple session de jam réside dans l'ambiance. Pour recréer l'ambiance d'un concert dans un environnement sans public, il est essentiel de comprendre la synesthésie, ce concept qui lie nos sens entre eux.
 
-Pour ce faire, le projet consisterait d'un processus de traitement du son émis par l'utilisateur (par un instrument, micro ou sons préenregistré). Le son reçu serait alors traité pour retourner une expérience visuelle dynamique et intéractive. L'expérience serait retransmit en direct sur un site de diffusion publique comme twitch, youtube, kick, tik tok... pour permettre à l'utilisateur d'avoir une audience même si elle n'est pas physique.
+Pour ce faire, le projet consisterait en un processus de traitement du son émis par l'utilisateur (via un instrument, un micro ou des sons préenregistrés). Le son reçu serait alors traité pour générer une expérience visuelle dynamique et interactive. L'expérience serait diffusée en direct sur une plateforme publique telle que Twitch, YouTube, Kick, TikTok... afin de permettre à l'utilisateur d'avoir une audience, même si celle-ci n'est pas physique.
 
 ## Scénario
-Plusieurs instruments seront mis à disposition de l'utilisateur.(Guitare, piano, percussion, micro...) L'utilisateur aura donc le chois de l'instrument qu'il veut utiliser et de ce qu'il veut jouer avec. Le son sera ensuite traité et transformé en lumière et vidéo.
+Plusieurs instruments seront mis à disposition de l'utilisateur (guitare, piano, percussions, micro...). L'utilisateur aura donc le choix de l'instrument qu'il souhaite utiliser et de ce qu'il veut jouer. Le son sera ensuite traité et transformé en lumière et en vidéo.
 
-Les percussions aurait un effet important sur les lumières qui clignoterait au rythme joué. Les instruments mélodiques comme les guitares, pianos, voix... serait représenté par la projection et les lumières. Châque instrument aurait une couleur spéciphique qui changerait de teinte par rapport à sa fréquence et d'intensité par rapport à son volume.. 
+Les percussions auraient un effet important sur les lumières, qui clignoteraient au rythme joué. Les instruments mélodiques, comme les guitares, pianos, voix... seraient représentés par des projections et des jeux de lumières. Chaque instrument aurait une couleur spécifique, qui changerait de teinte en fonction de sa fréquence et d'intensité selon son volume.
 
 Le tout disposé devant une caméra pour la diffusion du jam.
 
