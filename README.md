@@ -9,7 +9,7 @@ Pour ce faire, le projet consisterait d'un processus de traitement du son émis 
 ## Scénario
 Plusieurs instruments seront mis à disposition de l'utilisateur.(Guitare, piano, percussion, micro...) L'utilisateur aura donc le chois de l'instrument qu'il veut utiliser et de ce qu'il veut jouer avec. Le son sera ensuite traité et transformé en lumière et vidéo.
 
-Les percussions aurait un effet important sur les lumières qui clignoterait au rythme joué. Les instruments mélodiques comme les guitares, pianos, voix... serait représenté par la projection et les lumières. Châque instrument aurait une couleur spéciphique qui changerait de teinte par rapport à sa fréquence. 
+Les percussions aurait un effet important sur les lumières qui clignoterait au rythme joué. Les instruments mélodiques comme les guitares, pianos, voix... serait représenté par la projection et les lumières. Châque instrument aurait une couleur spéciphique qui changerait de teinte par rapport à sa fréquence et d'intensité par rapport à son volume.. 
 
 Le tout disposé devant une caméra pour la diffusion du jam.
 
