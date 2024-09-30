@@ -1,4 +1,4 @@
-# Idée de projet multimédia
+# ConcertNow
 
 ## Idée
 Étant passionné par la musique, j'aimerais réaliser un projet tournant autour de cette passion. Je souhaiterais proposer aux musiciens amateurs une expérience leur permettant de s'imaginer en train de donner un concert. La différence entre un concert et une simple session de jam réside dans l'ambiance. Pour recréer l'ambiance d'un concert dans un environnement sans public, il est essentiel de comprendre la synesthésie, ce concept qui lie nos sens entre eux.
